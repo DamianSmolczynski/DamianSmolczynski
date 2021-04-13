@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamianSmolczynski
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently learning AJAX technology.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on web developmenent.
 - 📫 How to reach me: d.smolczynski@o2.pl
 
